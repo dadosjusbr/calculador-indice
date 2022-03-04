@@ -25,7 +25,7 @@ func main() {
 	// Calcula índice e atualiza proto.
 	score := indice.CalcScore(*er.Rc.Metadados)
 	er.Rc.Metadados.IndiceCompletude = float32(score.CompletenessScore)
-	er.Rc.Metadados.IndiceFacilidade = float32(score.CompletenessScore)
+	er.Rc.Metadados.IndiceFacilidade = float32(score.EasinessScore)
 	er.Rc.Metadados.IndiceTransparencia = float32(score.Score)
 
 	// Imprime proto atualizado.
