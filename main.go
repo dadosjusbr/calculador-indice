@@ -28,6 +28,12 @@ func main() {
 	rc.Metadados.IndiceFacilidade = float32(score.EasinessScore)
 	rc.Metadados.IndiceTransparencia = float32(score.Score)
 
+	extensions := []string{"PDF", "ODS", "JSON", "CSV", "HTML", "ODT"}
+	for _, extensao := range extensions {
+		if rc.Metadados.Extensao.String() == extensao {
+			rc.Metadados.FormatoAberto = true
+		}
+	}
 	// Imprime resultado de coleta atualizado.
 	b, err := prototext.Marshal(&rc)
 	if err != nil {
