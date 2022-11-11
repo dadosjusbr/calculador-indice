@@ -21,7 +21,13 @@ func main() {
 	if err = prototext.Unmarshal(rcIn, &rc); err != nil {
 		status.ExitFromError(status.NewError(5, fmt.Errorf("error unmarshaling crawling resul from STDIN: %q\n\n %s ", err, string(rcIn))))
 	}
-
+	// Define se o formato é aberto
+	extensions := []string{"PDF", "ODS", "JSON", "CSV", "HTML", "ODT"}
+	for _, extensao := range extensions {
+		if rc.Metadados.Extensao.String() == extensao {
+			rc.Metadados.FormatoAberto = true
+		}
+	}
 	// Calcula índice e atualiza proto.
 	score := indice.CalcScore(*rc.Metadados)
 	rc.Metadados.IndiceCompletude = float32(score.CompletenessScore)
