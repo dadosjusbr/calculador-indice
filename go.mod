@@ -9,6 +9,6 @@ require (
 )
 
 require (
-	github.com/dadosjusbr/indice v0.0.0-20221111170153-cdf2471a5f59
+	github.com/dadosjusbr/indice v0.0.0-20221114175929-710bafe8d574
 	github.com/golang/protobuf v1.5.2 // indirect
 )
