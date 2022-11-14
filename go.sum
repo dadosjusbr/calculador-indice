@@ -4,6 +4,8 @@ github.com/dadosjusbr/indice v0.0.0-20220223171736-4d592830e290 h1:6gQG2anE3IEXW
 github.com/dadosjusbr/indice v0.0.0-20220223171736-4d592830e290/go.mod h1:hdPChcKsJ5uFK4A3AkYI6PJEETWOL0TR0sOm7VkYDzw=
 github.com/dadosjusbr/indice v0.0.0-20221111170153-cdf2471a5f59 h1:pqGfPFXQhBRc02S10zSzUIzgFvyi6z6MQjAKwWaq4uA=
 github.com/dadosjusbr/indice v0.0.0-20221111170153-cdf2471a5f59/go.mod h1:nWQ7TyuMFdKkJC+DKpkWwJVFDzmmZeLbHed3sxFty+g=
+github.com/dadosjusbr/indice v0.0.0-20221114175929-710bafe8d574 h1:TgtwHWnxopWximtJfubkf/hpjUaeQ1W9vTHKdMzakMA=
+github.com/dadosjusbr/indice v0.0.0-20221114175929-710bafe8d574/go.mod h1:nWQ7TyuMFdKkJC+DKpkWwJVFDzmmZeLbHed3sxFty+g=
 github.com/dadosjusbr/proto v0.0.0-20211129103514-9c088f1a601c/go.mod h1:cUy4r8q1n58ClC4IlsAQ49nr8hIDwA01HiTYAJ1eMVc=
 github.com/dadosjusbr/proto v0.0.0-20220304160723-47e93e9d97b5 h1:T1vX+7BhXkkYRZnRdla0Z8Uu9Emww7x2jNbowmbtOwM=
 github.com/dadosjusbr/proto v0.0.0-20220304160723-47e93e9d97b5/go.mod h1:a04KL3nn5wvlJTuoTYggaeokQi3njDyt9L7Ss9EQEJQ=
