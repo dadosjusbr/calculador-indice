@@ -23,6 +23,7 @@ func main() {
 	}
 	// Define se o formato é aberto
 	extensions := []string{"PDF", "ODS", "JSON", "CSV", "HTML", "ODT"}
+	rc.Metadados.FormatoAberto = false // padrão false
 	for _, extensao := range extensions {
 		if rc.Metadados.Extensao.String() == extensao {
 			rc.Metadados.FormatoAberto = true
