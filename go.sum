@@ -6,11 +6,15 @@ github.com/dadosjusbr/indice v0.0.0-20221111170153-cdf2471a5f59 h1:pqGfPFXQhBRc0
 github.com/dadosjusbr/indice v0.0.0-20221111170153-cdf2471a5f59/go.mod h1:nWQ7TyuMFdKkJC+DKpkWwJVFDzmmZeLbHed3sxFty+g=
 github.com/dadosjusbr/indice v0.0.0-20221114175929-710bafe8d574 h1:TgtwHWnxopWximtJfubkf/hpjUaeQ1W9vTHKdMzakMA=
 github.com/dadosjusbr/indice v0.0.0-20221114175929-710bafe8d574/go.mod h1:nWQ7TyuMFdKkJC+DKpkWwJVFDzmmZeLbHed3sxFty+g=
+github.com/dadosjusbr/indice v0.0.0-20221212103631-af4865d6ea59 h1:hc9XM3PEKhmOu7s/nwi6u7sd8R02g7+e+Ko1vEgQxkM=
+github.com/dadosjusbr/indice v0.0.0-20221212103631-af4865d6ea59/go.mod h1:u/kMqaQ7dq7rjaf9D6pCUFWaEs0q5BRturZ0gngqzrc=
 github.com/dadosjusbr/proto v0.0.0-20211129103514-9c088f1a601c/go.mod h1:cUy4r8q1n58ClC4IlsAQ49nr8hIDwA01HiTYAJ1eMVc=
 github.com/dadosjusbr/proto v0.0.0-20220304160723-47e93e9d97b5 h1:T1vX+7BhXkkYRZnRdla0Z8Uu9Emww7x2jNbowmbtOwM=
 github.com/dadosjusbr/proto v0.0.0-20220304160723-47e93e9d97b5/go.mod h1:a04KL3nn5wvlJTuoTYggaeokQi3njDyt9L7Ss9EQEJQ=
 github.com/dadosjusbr/proto v0.0.0-20221111143805-a41e9c57346c h1:AC8emyvDGDWay68+wvRilvHpm2//8LcOR3nFjGA5xEk=
 github.com/dadosjusbr/proto v0.0.0-20221111143805-a41e9c57346c/go.mod h1:gPA7VxjEmyez/xtln4qBj+tM1NO0/zcw3ryjxTRNSco=
+github.com/dadosjusbr/proto v0.0.0-20221212025627-91c60aa3cd12 h1:ufl8nbCEo6g2VHUbedGy0gYk9Sgrynf9rcnzuSw4TEg=
+github.com/dadosjusbr/proto v0.0.0-20221212025627-91c60aa3cd12/go.mod h1:gPA7VxjEmyez/xtln4qBj+tM1NO0/zcw3ryjxTRNSco=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gocarina/gocsv v0.0.0-20200827134620-49f5c3fa2b3e/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
